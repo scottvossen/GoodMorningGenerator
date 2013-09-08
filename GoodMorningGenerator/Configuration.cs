@@ -206,9 +206,6 @@ namespace GoodMorningGenerator
             var defaultAddresses = new List<MailAddress>
                                        {
                                            new MailAddress(DEFAULT_SENDER_EMAIL,            DEFAULT_SENDER_NAME),
-                                           //new MailAddress("scottvossen@gmail.com",         "Scott"),
-                                           //new MailAddress("marrithl2@yahoo.com",           "Marrithl2"),
-                                           //new MailAddress("katiegroskreutz@gmail.com",     "Katie")
                                        };
             var defaultMessages = new Dictionary<string, string>
                                       {
